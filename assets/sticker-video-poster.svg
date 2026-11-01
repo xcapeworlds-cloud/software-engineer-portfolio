@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="Sticker Puzzles gameplay video thumbnail">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#263c72"/><stop offset="1" stop-color="#7555a9"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-opacity=".25"/></filter></defs>
+<rect width="960" height="540" fill="url(#bg)"/><circle cx="115" cy="100" r="140" fill="#b6f2e1" opacity=".12"/><circle cx="845" cy="450" r="180" fill="#ffcf98" opacity=".14"/>
+<g filter="url(#shadow)"><rect x="220" y="48" width="520" height="444" rx="32" fill="#fff9ee"/><rect x="244" y="72" width="472" height="396" rx="20" fill="#f7e5ce"/>
+<circle cx="410" cy="210" r="66" fill="#ffd075"/><circle cx="397" cy="201" r="7" fill="#493d54"/><circle cx="433" cy="201" r="7" fill="#493d54"/><path d="M393 231 Q416 251 439 231" stroke="#493d54" stroke-width="7" fill="none" stroke-linecap="round"/>
+<path d="M575 148 l21 42 47 7 -34 33 8 47 -42 -22 -42 22 8 -47 -34 -33 47 -7z" fill="#ffa3b2" stroke="#fff" stroke-width="9" stroke-linejoin="round"/>
+<path d="M335 320 C300 285 268 338 300 370 L335 406 370 370 C402 338 370 285 335 320Z" fill="#91d6c2" stroke="#fff" stroke-width="9"/>
+<rect x="490" y="322" width="136" height="83" rx="22" fill="#a5b5fb" stroke="#fff" stroke-width="9"/></g>
+<circle cx="480" cy="270" r="66" fill="#101c33" fill-opacity=".85" stroke="#fff" stroke-opacity=".9" stroke-width="4"/><path d="M464 234 L464 306 L522 270Z" fill="#fff"/>
+<rect x="285" y="436" width="390" height="38" rx="19" fill="#101c33" opacity=".92"/><text x="480" y="461" fill="#fff" font-family="Arial,sans-serif" font-weight="700" font-size="20" text-anchor="middle">Sticker Puzzles Gameplay</text>
+</svg>
