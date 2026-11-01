@@ -1,0 +1,16 @@
+name: Progression Engine (.NET 8)
+on:
+  push:
+  pull_request:
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+      - name: Build core and CLI
+        run: dotnet build projects/ProgressionEngine/ProgressionEngine.Cli/ProgressionEngine.Cli.csproj --configuration Release
+      - name: Run automated checks
+        run: dotnet run --project projects/ProgressionEngine/ProgressionEngine.Tests --configuration Release
